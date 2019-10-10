@@ -1,2 +1,10 @@
 Realization of MD2 Hash and realization of the attack (unworking (: )
 The attack must work if we know the Hi and the result of compression - H(i+1)
+
+All strings input is in hex
+
+To create MD2 Hash function:
+./a.out md2 <string> <string>
+
+To compress:
+./a.out compress <string> <string>
