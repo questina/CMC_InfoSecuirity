@@ -1,1 +1,3 @@
 This is a task for realization the ChaCha 20 algorithm for cryptographic method Adiantum
+
+./a.out <input> <key> <iv> <output>
